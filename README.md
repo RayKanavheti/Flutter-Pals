@@ -1,6 +1,6 @@
-# hack19
+# Flutter Pals
 
-A new Flutter project.
+A project for the 2019 international hackathon day.
 
 ## Getting Started
 
