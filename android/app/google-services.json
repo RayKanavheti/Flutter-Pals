@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153425989563",
+    "firebase_url": "https://flutter-pals.firebaseio.com",
+    "project_id": "flutter-pals",
+    "storage_bucket": "flutter-pals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153425989563:android:233565da7cbb22f8",
+        "android_client_info": {
+          "package_name": "com.example.hack19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153425989563-ch64stceg4okfg86m0io1k10mcp1nv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQqo9coLulGCLW0_4Pw_l4Bd-S6Fib4vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153425989563-ch64stceg4okfg86m0io1k10mcp1nv0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
